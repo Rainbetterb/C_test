@@ -1,0 +1,9 @@
+﻿  test.c
+C:\Users\86136\source\repos\test_5_28cai\test_5_28cai\test.c(77,10): warning C4013: “rand”未定义；假设外部返回 int
+C:\Users\86136\source\repos\test_5_28cai\test_5_28cai\test.c(101,2): warning C4013: “srand”未定义；假设外部返回 int
+  正在生成代码
+  2 of 10 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test_5_28cai.vcxproj -> C:\Users\86136\source\repos\test_5_28cai\x64\Release\test_5_28cai.exe

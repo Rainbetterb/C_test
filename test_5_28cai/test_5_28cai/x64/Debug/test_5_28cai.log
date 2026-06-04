@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\86136\source\repos\test_5_28cai\test_5_28cai\test.c(16,10): warning C4013: “rand”未定义；假设外部返回 int
+C:\Users\86136\source\repos\test_5_28cai\test_5_28cai\test.c(41,2): warning C4013: “srand”未定义；假设外部返回 int
+  test_5_28cai.vcxproj -> C:\Users\86136\source\repos\test_5_28cai\x64\Debug\test_5_28cai.exe
