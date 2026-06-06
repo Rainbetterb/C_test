@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\86136\\source\\repos\\test_6_4\\",
+  "WorkspaceRootPath": "C:\\codebase\\C_test\\test_6_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{966AB3EB-5467-4900-93EA-31BCCB81D73A}|test_6_4\\test_6_4.vcxproj|C:\\Users\\86136\\source\\repos\\test_6_4\\test_6_4\\test_6_4_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{966AB3EB-5467-4900-93EA-31BCCB81D73A}|test_6_4\\test_6_4.vcxproj|C:\\codebase\\C_test\\test_6_4\\test_6_4\\test_6_4_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{966AB3EB-5467-4900-93EA-31BCCB81D73A}|test_6_4\\test_6_4.vcxproj|solutionrelative:test_6_4\\test_6_4_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test_6_4_.c",
-              "DocumentMoniker": "C:\\Users\\86136\\source\\repos\\test_6_4\\test_6_4\\test_6_4_.c",
+              "DocumentMoniker": "C:\\codebase\\C_test\\test_6_4\\test_6_4\\test_6_4_.c",
               "RelativeDocumentMoniker": "test_6_4\\test_6_4_.c",
-              "ToolTip": "C:\\Users\\86136\\source\\repos\\test_6_4\\test_6_4\\test_6_4_.c",
+              "ToolTip": "C:\\codebase\\C_test\\test_6_4\\test_6_4\\test_6_4_.c",
               "RelativeToolTip": "test_6_4\\test_6_4_.c",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-06-04T08:11:13.102Z",
               "EditorCaption": ""
